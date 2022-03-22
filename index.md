@@ -11,9 +11,7 @@ Renommage des pistes avec Tag audio et sous-titre.
 Upload de la release sur votre seedbox via sftp.
 Planification de vos encodage depuis CreaVideo (choix de la date et l'heure de lancement de l'encodage).
 
-You can use the [editor on GitHub](https://github.com/ghostshadow83/CreaLogiciel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -34,7 +32,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+<a href="https://zupimages.net/viewer.php?id=22/12/k3y8.png"><img src="https://zupimages.net/up/22/12/k3y8.png" alt="" /></a>
+<br>
+<a href="https://zupimages.net/viewer.php?id=22/12/o2dy.png"><img src="https://zupimages.net/up/22/12/o2dy.png" alt="" /></a>
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
