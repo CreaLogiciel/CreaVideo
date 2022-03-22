@@ -1,4 +1,15 @@
 ## Welcome to CreaVideo
+CreaVideo est un logiciel d'encodage vidéo. Il permet d'encoder des fichier mkv remux. Il encode en 4K dolby vision, et en HD.
+Demuxage des piste via @gMKVExtractGUI depuis CreaVideo.
+Création de script d'encodage. Pas besoin de notion d'encodeur. Le logiciel calcul les meilleurs paramètres d'encodage selon la vidéo source. Il analyse la vidéo source et effectue un encodage basique pour analyser les résultat et adapte les paramètres via des algorythmes avancés, nourris au machine learning.
+Une fois encodé on obtient une vidéo de qualité.
+Encodage des vidéos sources : 4K HDR, 4K @Dolby Vision, 4K @HDR10+, HD.
+Algorythmes spécifiques : Film, Série, Animé.
+Muxage des pistes via @mkvtoolnix-gui intégré dans CreaVideo.
+OCR via @Subtitle edit intégré dans CreaVideo.
+Renommage des pistes avec Tag audio et sous-titre.
+Upload de la release sur votre seedbox via sftp.
+Planification de vos encodage depuis CreaVideo (choix de la date et l'heure de lancement de l'encodage).
 
 You can use the [editor on GitHub](https://github.com/ghostshadow83/CreaLogiciel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
